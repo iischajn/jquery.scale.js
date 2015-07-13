@@ -1,0 +1,14 @@
+{
+    "name": "scale",
+    "title": "jQuery scale manage tool",
+    "description": "contorl scale ",
+    "files": ["jquery.scale.js"],
+    "keywords": [
+        "scale"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "chajn",
+        "url": "https://github.com/iischajn"
+    }
+}
